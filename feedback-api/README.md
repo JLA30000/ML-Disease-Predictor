@@ -85,6 +85,7 @@ Render can deploy this as a separate web service from the same GitHub repo.
 Recommended settings:
 
 - Root Directory: `feedback-api`
+- Python Version: `3.12.8`
 - Build Command: `pip install -r requirements.txt`
 - Start Command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
 - Disk: mount a persistent disk at `/var/data`
