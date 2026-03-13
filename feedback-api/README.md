@@ -82,6 +82,8 @@ curl http://127.0.0.1:8001/feedback -H "x-api-key: YOUR_KEY"
 
 Render can deploy this as a separate web service from the same GitHub repo.
 
+Important: Render's default Python version for newly created native Python services changed to 3.14.3 on February 11, 2026. This API is pinned to 3.12.8 via render.yaml, runtime.txt, and .python-version. If you create the service manually instead of syncing the Blueprint, set PYTHON_VERSION=3.12.8 in the Render dashboard before deploying.
+
 Recommended settings:
 
 - Root Directory: `feedback-api`
@@ -100,3 +102,4 @@ To send app feedback here, add a client function in the app that posts to:
 `POST https://YOUR-RENDER-SERVICE.onrender.com/feedback`
 
 Payload shape matches the request schema above.
+
