@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="%LANG_ISO_CODE%">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>%WEB_TITLE%</title>
+    <style id="expo-reset">
+      /* react-native-web recommended reset */
+      html,
+      body {
+        height: 100%;
+        background-color: #060E1C;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        overflow: hidden;
+      }
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+
+      /* Web splash — visible before React mounts */
+      #web-splash {
+        position: fixed;
+        inset: 0;
+        background-color: #060E1C;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 14px;
+        z-index: 9999;
+        opacity: 1;
+        transition: opacity 0.4s ease;
+      }
+      #web-splash.fade-out {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      .ws-badge {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        padding: 5px 14px;
+        border-radius: 999px;
+        background-color: #062419;
+        border: 1px solid rgba(18, 184, 139, 0.25);
+        margin-bottom: 10px;
+      }
+      .ws-badge-dot {
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background-color: #12B88B;
+      }
+      .ws-badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+        color: #12B88B;
+      }
+      .ws-title {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: 58px;
+        font-weight: 700;
+        color: #EBF2FC;
+        letter-spacing: -1px;
+        margin: 0;
+        line-height: 1;
+      }
+      .ws-subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 15px;
+        color: #6B87AD;
+        letter-spacing: 0.4px;
+        margin: 0;
+      }
+      .ws-divider {
+        width: 40px;
+        height: 1px;
+        background-color: #1F3D60;
+        margin: 12px 0;
+      }
+      .ws-loading {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .ws-spinner {
+        width: 16px;
+        height: 16px;
+        border: 2px solid rgba(18, 184, 139, 0.2);
+        border-top-color: #12B88B;
+        border-radius: 50%;
+        animation: ws-spin 0.7s linear infinite;
+      }
+      .ws-loading-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 13px;
+        color: #6B87AD;
+        letter-spacing: 0.5px;
+      }
+      .ws-version {
+        position: fixed;
+        bottom: 36px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 11px;
+        color: rgba(107, 135, 173, 0.5);
+        letter-spacing: 0.8px;
+      }
+
+      @keyframes ws-spin {
+        to { transform: rotate(360deg); }
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- Web splash overlay -->
+    <div id="web-splash">
+      <div class="ws-badge">
+        <div class="ws-badge-dot"></div>
+        <span class="ws-badge-text">AI Health Platform</span>
+      </div>
+      <p class="ws-title">MedAI</p>
+      <p class="ws-subtitle">Clinical Decision Support</p>
+      <div class="ws-divider"></div>
+      <div class="ws-loading">
+        <div class="ws-spinner"></div>
+        <span class="ws-loading-text">Initializing...</span>
+      </div>
+      <span class="ws-version">Research &amp; Education Build</span>
+    </div>
+
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+
+    <script>
+      // Fade out the splash once React has injected content into #root
+      (function () {
+        var splash = document.getElementById('web-splash');
+        var root = document.getElementById('root');
+        if (!splash || !root) return;
+
+        var observer = new MutationObserver(function () {
+          if (root.children.length > 0) {
+            splash.classList.add('fade-out');
+            setTimeout(function () {
+              if (splash.parentNode) splash.parentNode.removeChild(splash);
+            }, 450);
+            observer.disconnect();
+          }
+        });
+
+        observer.observe(root, { childList: true });
+      })();
+    </script>
+  </body>
+</html>

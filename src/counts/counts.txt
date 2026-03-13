@@ -1,0 +1,1792 @@
+── Diseases with >= 10 samples (677 total) ──
+  abdominal aortic aneurysm: 138
+  abdominal hernia: 407
+  abscess of nose: 290
+  abscess of the lung: 19
+  abscess of the pharynx: 341
+  acanthosis nigricans: 30
+  acariasis: 36
+  achalasia: 84
+  acne: 496
+  actinic keratosis: 909
+  acute bronchiolitis: 1204
+  acute bronchitis: 1213
+  acute bronchospasm: 906
+  acute glaucoma: 210
+  acute kidney injury: 908
+  acute otitis media: 683
+  acute pancreatitis: 1207
+  acute respiratory distress syndrome (ards): 451
+  acute sinusitis: 906
+  acute stress reaction: 910
+  adhesive capsulitis of the shoulder: 73
+  adjustment reaction: 503
+  adrenal adenoma: 35
+  alcohol abuse: 510
+  alcohol intoxication: 351
+  alcohol withdrawal: 665
+  alcoholic liver disease: 246
+  allergy: 905
+  allergy to animals: 39
+  alopecia: 340
+  alzheimer disease: 336
+  amblyopia: 47
+  amyotrophic lateral sclerosis (als): 60
+  anal fissure: 226
+  anal fistula: 20
+  anemia: 331
+  anemia due to chronic kidney disease: 50
+  anemia due to malignancy: 12
+  anemia of chronic disease: 40
+  angina: 906
+  ankylosing spondylitis: 606
+  anxiety: 1198
+  aortic valve disease: 451
+  aphthous ulcer: 244
+  aplastic anemia: 70
+  appendicitis: 903
+  arrhythmia: 258
+  arthritis of the hip: 1210
+  ascending cholangitis: 72
+  asperger syndrome: 338
+  aspergillosis: 10
+  asthma: 904
+  astigmatism: 321
+  atelectasis: 99
+  athlete's foot: 382
+  atonic bladder: 71
+  atrial fibrillation: 68
+  atrial flutter: 240
+  atrophic skin condition: 438
+  atrophic vaginitis: 329
+  atrophy of the corpus cavernosum: 47
+  attention deficit hyperactivity disorder (adhd): 507
+  autism: 452
+  autonomic nervous system disorder: 84
+  avascular necrosis: 10
+  balanitis: 454
+  bell palsy: 685
+  benign kidney cyst: 206
+  benign paroxysmal positional vertical (bppv): 443
+  benign prostatic hyperplasia (bph): 1206
+  benign vaginal discharge (leukorrhea): 682
+  bipolar disorder: 663
+  birth trauma: 11
+  bladder cancer: 125
+  bladder disorder: 454
+  bladder obstruction: 338
+  blepharitis: 906
+  bone cancer: 83
+  bone disorder: 255
+  bone spur of the calcaneous: 31
+  brachial neuritis: 907
+  brain cancer: 227
+  breast cyst: 22
+  breast infection (mastitis): 501
+  broken tooth: 165
+  bunion: 38
+  burn: 57
+  bursitis: 1208
+  callus: 513
+  carbon monoxide poisoning: 88
+  cardiac arrest: 346
+  cardiomyopathy: 311
+  carpal tunnel syndrome: 896
+  cataract: 607
+  celiac disease: 151
+  cellulitis or abscess of mouth: 138
+  central atherosclerosis: 18
+  central retinal artery or vein occlusion: 69
+  cerebral edema: 104
+  cerebral palsy: 139
+  cervical cancer: 97
+  cervical disorder: 43
+  cervicitis: 384
+  chalazion: 678
+  chickenpox: 104
+  chlamydia: 165
+  cholecystitis: 1204
+  choledocholithiasis: 441
+  cholesteatoma: 31
+  chondromalacia of the patella: 53
+  chorioretinitis: 76
+  chronic back pain: 899
+  chronic constipation: 913
+  chronic glaucoma: 668
+  chronic inflammatory demyelinating polyneuropathy (cidp): 18
+  chronic kidney disease: 10
+  chronic knee pain: 150
+  chronic obstructive pulmonary disease (copd): 906
+  chronic otitis media: 669
+  chronic pain disorder: 677
+  chronic pancreatitis: 297
+  chronic rheumatic fever: 169
+  chronic sinusitis: 657
+  cirrhosis: 331
+  coagulation (bleeding) disorder: 90
+  cold sore: 192
+  colonic polyp: 339
+  colorectal cancer: 15
+  common cold: 905
+  complex regional pain syndrome: 1217
+  concussion: 1191
+  conduct disorder: 679
+  conductive hearing loss: 598
+  congenital heart defect: 36
+  congenital malformation syndrome: 13
+  conjunctivitis: 909
+  conjunctivitis due to allergy: 1215
+  conjunctivitis due to bacteria: 154
+  conjunctivitis due to virus: 681
+  contact dermatitis: 909
+  conversion disorder: 20
+  cornea infection: 903
+  corneal abrasion: 500
+  corneal disorder: 676
+  coronary atherosclerosis: 112
+  cranial nerve palsy: 340
+  crohn disease: 376
+  croup: 904
+  crushing injury: 63
+  cryptococcosis: 11
+  cyst of the eyelid: 18
+  cystic fibrosis: 15
+  cysticercosis: 36
+  cystitis: 1219
+  de quervain disease: 92
+  decubitus ulcer: 10
+  deep vein thrombosis (dvt): 240
+  degenerative disc disease: 909
+  delirium: 598
+  dementia: 339
+  dental caries: 1185
+  depression: 912
+  dermatitis due to sun exposure: 446
+  developmental disability: 911
+  deviated nasal septum: 607
+  diabetes insipidus: 12
+  diabetic ketoacidosis: 673
+  diabetic peripheral neuropathy: 452
+  diabetic retinopathy: 456
+  diaper rash: 897
+  dislocation of the ankle: 21
+  dislocation of the elbow: 84
+  dislocation of the finger: 18
+  dislocation of the foot: 19
+  dislocation of the shoulder: 64
+  dislocation of the vertebra: 38
+  dislocation of the wrist: 45
+  dissociative disorder: 91
+  diverticulitis: 1214
+  diverticulosis: 673
+  down syndrome: 127
+  drug abuse: 603
+  drug abuse (barbiturates): 62
+  drug abuse (cocaine): 281
+  drug abuse (methamphetamine): 330
+  drug abuse (opioids): 604
+  drug poisoning due to medication: 208
+  drug reaction: 909
+  drug withdrawal: 255
+  dry eye of unknown cause: 861
+  dyshidrosis: 83
+  dysthymic disorder: 499
+  ear drum damage: 907
+  ear wax impaction: 678
+  eating disorder: 494
+  ectopic pregnancy: 341
+  ectropion: 38
+  eczema: 1207
+  emphysema: 31
+  encephalitis: 94
+  endocarditis: 83
+  endometrial cancer: 88
+  endometrial hyperplasia: 49
+  endometriosis: 378
+  endophthalmitis: 61
+  envenomation from spider or animal bite: 455
+  ependymoma: 19
+  epididymitis: 511
+  epidural hemorrhage: 10
+  epilepsy: 75
+  erectile dysfunction: 606
+  erythema multiforme: 43
+  esophageal cancer: 77
+  esophagitis: 1215
+  essential tremor: 195
+  eustachian tube dysfunction (ear disorder): 909
+  extrapyramidal effect of drugs: 83
+  eye alignment disorder: 453
+  factitious disorder: 13
+  female genitalia infection: 197
+  female infertility of unknown cause: 28
+  fibroadenoma: 97
+  fibrocystic breast disease: 14
+  fibromyalgia: 656
+  flat feet: 33
+  floaters: 24
+  flu: 679
+  fluid overload: 327
+  folate deficiency: 44
+  food allergy: 454
+  foreign body in the ear: 25
+  foreign body in the eye: 281
+  foreign body in the gastrointestinal tract: 127
+  foreign body in the throat: 156
+  foreign body in the vagina: 21
+  fracture of the ankle: 36
+  fracture of the arm: 437
+  fracture of the facial bones: 449
+  fracture of the foot: 14
+  fracture of the hand: 111
+  fracture of the jaw: 75
+  fracture of the leg: 678
+  fracture of the neck: 41
+  fracture of the patella: 79
+  fracture of the pelvis: 184
+  fracture of the rib: 882
+  fracture of the shoulder: 162
+  fracture of the skull: 65
+  fracture of the vertebra: 270
+  frostbite: 12
+  fungal infection of the hair: 1212
+  fungal infection of the skin: 683
+  galactorrhea of unknown cause: 11
+  gallstone: 904
+  ganglion cyst: 675
+  gastritis: 679
+  gastroduodenal ulcer: 683
+  gastroesophageal reflux disease (gerd): 448
+  gastrointestinal hemorrhage: 1214
+  gastroparesis: 179
+  genital herpes: 242
+  gestational diabetes: 26
+  glaucoma: 498
+  glucocorticoid deficiency: 17
+  goiter: 75
+  gonorrhea: 131
+  gout: 1211
+  granuloma inguinale: 10
+  graves disease: 248
+  guillain barre syndrome: 57
+  gum disease: 894
+  gynecomastia: 83
+  head and neck cancer: 326
+  head injury: 164
+  headache after lumbar puncture: 169
+  heart attack: 907
+  heart block: 606
+  heart contusion: 11
+  heart failure: 903
+  heat exhaustion: 264
+  hemangioma: 676
+  hematoma: 60
+  hemiplegia: 504
+  hemolytic anemia: 27
+  hemophilia: 21
+  hemorrhoids: 908
+  hepatic encephalopathy: 45
+  hepatitis due to a toxin: 357
+  herniated disk: 908
+  herpangina: 450
+  hiatal hernia: 906
+  hidradenitis suppurativa: 139
+  hirschsprung disease: 19
+  hirsutism: 31
+  hormone disorder: 55
+  hpv: 13
+  hydatidiform mole: 62
+  hydrocele of the testicle: 227
+  hydrocephalus: 155
+  hydronephrosis: 340
+  hypercalcemia: 10
+  hyperemesis gravidarum: 912
+  hyperhidrosis: 24
+  hyperkalemia: 657
+  hypernatremia: 74
+  hyperopia: 108
+  hypertension of pregnancy: 56
+  hypertensive heart disease: 902
+  hypocalcemia: 46
+  hypoglycemia: 1215
+  hypokalemia: 478
+  hyponatremia: 495
+  hypothermia: 13
+  hypothyroidism: 74
+  hypovolemia: 424
+  idiopathic absence of menstruation: 493
+  idiopathic excessive menstruation: 906
+  idiopathic infrequent menstruation: 50
+  idiopathic irregular menstrual cycle: 908
+  idiopathic nonmenstrual bleeding: 98
+  idiopathic painful menstruation: 906
+  ileus: 449
+  impetigo: 683
+  impulse control disorder: 335
+  indigestion: 447
+  induced abortion: 287
+  infection of open wound: 35
+  infectious gastroenteritis: 1212
+  ingrown toe nail: 604
+  inguinal hernia: 402
+  injury of the ankle: 182
+  injury to internal organ: 131
+  injury to the abdomen: 64
+  injury to the arm: 1209
+  injury to the face: 455
+  injury to the hand: 126
+  injury to the hip: 16
+  injury to the knee: 53
+  injury to the leg: 1206
+  injury to the shoulder: 510
+  injury to the spinal cord: 29
+  injury to the trunk: 905
+  insect bite: 669
+  interstitial lung disease: 511
+  intertrigo (skin condition): 105
+  intestinal cancer: 49
+  intestinal disease: 383
+  intestinal malabsorption: 161
+  intestinal obstruction: 445
+  intracerebral hemorrhage: 603
+  intracranial abscess: 12
+  intracranial hemorrhage: 322
+  iridocyclitis: 496
+  iron deficiency anemia: 683
+  irritable bowel syndrome: 510
+  ischemia of the bowel: 283
+  ischemic heart disease: 886
+  itching of unknown cause: 504
+  jaw disorder: 336
+  joint effusion: 449
+  juvenile rheumatoid arthritis: 33
+  kidney cancer: 80
+  kidney disease due to longstanding hypertension: 17
+  kidney failure: 282
+  kidney stone: 904
+  knee ligament or meniscus tear: 106
+  labyrinthitis: 654
+  lactose intolerance: 137
+  laryngitis: 678
+  lateral epicondylitis (tennis elbow): 337
+  leukemia: 10
+  lewy body dementia: 79
+  lice: 65
+  lichen simplex: 59
+  lipoma: 684
+  liver cancer: 49
+  liver disease: 1209
+  lumbago: 156
+  lung cancer: 51
+  lung contusion: 15
+  lyme disease: 211
+  lymphadenitis: 453
+  lymphedema: 505
+  lymphogranuloma venereum: 20
+  lymphoma: 133
+  macular degeneration: 909
+  magnesium deficiency: 35
+  malaria: 15
+  male genitalia infection: 138
+  malignant hypertension: 181
+  marijuana abuse: 1210
+  mastectomy: 17
+  mastoiditis: 144
+  melanoma: 271
+  meniere disease: 281
+  meningioma: 18
+  meningitis: 297
+  menopause: 76
+  metabolic disorder: 34
+  metastatic cancer: 27
+  migraine: 221
+  missed abortion: 375
+  mitral valve disease: 504
+  mittelschmerz: 53
+  molluscum contagiosum: 511
+  mononeuritis: 676
+  mononucleosis: 331
+  moyamoya disease: 12
+  mucositis: 289
+  multiple myeloma: 51
+  multiple sclerosis: 910
+  mumps: 45
+  muscle spasm: 678
+  muscular dystrophy: 45
+  myasthenia gravis: 134
+  myoclonus: 11
+  myopia: 448
+  myositis: 137
+  narcolepsy: 186
+  nasal polyp: 356
+  neonatal jaundice: 34
+  nerve impingement near the shoulder: 280
+  neuralgia: 684
+  neurofibromatosis: 30
+  neuropathy due to drugs: 40
+  neurosis: 902
+  nonalcoholic liver disease (nash): 62
+  noninfectious gastroenteritis: 1206
+  normal pressure hydrocephalus: 26
+  nose disorder: 1218
+  obsessive compulsive disorder (ocd): 454
+  obstructive sleep apnea (osa): 1196
+  onychomycosis: 505
+  open wound of the arm: 10
+  open wound of the ear: 33
+  open wound of the eye: 32
+  open wound of the foot: 27
+  open wound of the lip: 26
+  open wound of the mouth: 95
+  open wound of the neck: 32
+  open wound of the nose: 11
+  oppositional disorder: 431
+  optic neuritis: 10
+  oral mucosal lesion: 606
+  oral thrush (yeast infection): 681
+  orbital cellulitis: 170
+  orthostatic hypotension: 283
+  osteoarthritis: 896
+  osteochondroma: 211
+  osteochondrosis: 109
+  osteomyelitis: 188
+  osteoporosis: 378
+  otitis externa (swimmer's ear): 904
+  otitis media: 910
+  otosclerosis: 19
+  ovarian cancer: 19
+  ovarian cyst: 499
+  ovarian torsion: 67
+  overflow incontinence: 212
+  pain after an operation: 908
+  pain disorder affecting the neck: 387
+  pancreatic cancer: 204
+  panic attack: 188
+  panic disorder: 909
+  parasitic disease: 74
+  parathyroid adenoma: 18
+  parkinson disease: 513
+  paronychia: 438
+  paroxysmal supraventricular tachycardia: 375
+  paroxysmal ventricular tachycardia: 671
+  pelvic inflammatory disease: 900
+  pelvic organ prolapse: 438
+  pericarditis: 147
+  peripheral arterial disease: 113
+  peripheral arterial embolism: 135
+  peripheral nerve disorder: 1215
+  perirectal infection: 137
+  peritonitis: 381
+  peritonsillar abscess: 246
+  persistent vomiting of unknown cause: 186
+  personality disorder: 911
+  peyronie disease: 21
+  pharyngitis: 19
+  phimosis: 60
+  pilonidal cyst: 339
+  pinworm infection: 87
+  pituitary adenoma: 29
+  pituitary disorder: 30
+  pityriasis rosea: 71
+  placental abruption: 14
+  plantar fasciitis: 199
+  pleural effusion: 607
+  pneumoconiosis: 14
+  pneumonia: 1212
+  pneumothorax: 296
+  poisoning due to analgesics: 66
+  poisoning due to anticonvulsants: 41
+  poisoning due to antidepressants: 29
+  poisoning due to antihypertensives: 17
+  poisoning due to antimicrobial drugs: 97
+  poisoning due to antipsychotics: 10
+  poisoning due to ethylene glycol: 24
+  poisoning due to gas: 194
+  poisoning due to sedatives: 126
+  polycystic kidney disease: 183
+  polycystic ovarian syndrome (pcos): 268
+  polycythemia vera: 49
+  polymyalgia rheumatica: 136
+  post-traumatic stress disorder (ptsd): 607
+  postoperative infection: 111
+  postpartum depression: 494
+  preeclampsia: 217
+  pregnancy: 13
+  premature atrial contractions (pacs): 220
+  premature ovarian failure: 48
+  premature ventricular contractions (pvcs): 325
+  premenstrual tension syndrome: 137
+  presbyacusis: 55
+  presbyopia: 212
+  primary immunodeficiency: 36
+  primary insomnia: 190
+  primary kidney disease: 34
+  problem during pregnancy: 913
+  prostate cancer: 135
+  prostatitis: 681
+  protein deficiency: 64
+  pseudohypoparathyroidism: 12
+  pseudotumor cerebri: 48
+  psoriasis: 912
+  psychosexual disorder: 168
+  psychotic disorder: 902
+  pterygium: 215
+  pulmonary congestion: 497
+  pulmonary embolism: 880
+  pulmonary eosinophilia: 185
+  pulmonary fibrosis: 118
+  pulmonary hypertension: 446
+  pulmonic valve disease: 11
+  pyelonephritis: 903
+  pyloric stenosis: 16
+  pyogenic skin infection: 911
+  raynaud disease: 12
+  reactive arthritis: 10
+  rectal disorder: 902
+  restless leg syndrome: 283
+  retinal detachment: 280
+  retinopathy due to high blood pressure: 138
+  rhabdomyolysis: 16
+  rheumatoid arthritis: 678
+  rosacea: 678
+  rotator cuff injury: 111
+  salivary gland disorder: 62
+  sarcoidosis: 330
+  scabies: 187
+  scar: 256
+  scarlet fever: 90
+  schizophrenia: 890
+  sciatica: 668
+  scleritis: 46
+  scleroderma: 338
+  scoliosis: 171
+  seasonal allergies (hay fever): 910
+  sebaceous cyst: 913
+  seborrheic dermatitis: 880
+  seborrheic keratosis: 870
+  sensorineural hearing loss: 681
+  sepsis: 909
+  septic arthritis: 62
+  shingles (herpes zoster): 379
+  sialoadenitis: 509
+  sick sinus syndrome: 158
+  sickle cell anemia: 226
+  sickle cell crisis: 913
+  sinus bradycardia: 909
+  sjogren syndrome: 92
+  skin cancer: 661
+  skin disorder: 676
+  skin pigmentation disorder: 909
+  skin polyp: 897
+  smoking or tobacco addiction: 883
+  social phobia: 511
+  soft tissue sarcoma: 171
+  somatization disorder: 79
+  spermatocele: 81
+  spina bifida: 82
+  spinal stenosis: 1207
+  spondylitis: 451
+  spondylolisthesis: 673
+  spondylosis: 1216
+  spontaneous abortion: 1212
+  sprain or strain: 1212
+  stenosis of the tear duct: 102
+  stomach cancer: 155
+  strep throat: 1210
+  stress incontinence: 255
+  stricture of the esophagus: 86
+  stroke: 642
+  stye: 908
+  subacute thyroiditis: 30
+  subarachnoid hemorrhage: 140
+  subconjunctival hemorrhage: 249
+  subdural hemorrhage: 139
+  substance-related mental disorder: 213
+  syphilis: 30
+  syringomyelia: 14
+  systemic lupus erythematosis (sle): 159
+  teething syndrome: 438
+  temporary or benign blood in urine: 897
+  temporomandibular joint disorder: 341
+  tendinitis: 678
+  tension headache: 279
+  testicular cancer: 10
+  testicular disorder: 61
+  testicular torsion: 90
+  thoracic aortic aneurysm: 168
+  thoracic outlet syndrome: 180
+  threatened pregnancy: 905
+  thrombocytopenia: 126
+  thrombophlebitis: 451
+  thyroid disease: 17
+  thyroid nodule: 216
+  tic (movement) disorder: 87
+  tietze syndrome: 333
+  tinnitus of unknown cause: 279
+  tonsillar hypertrophy: 339
+  tonsillitis: 446
+  tooth abscess: 669
+  tooth disorder: 671
+  torticollis: 280
+  tourette syndrome: 31
+  toxic multinodular goiter: 79
+  toxoplasmosis: 12
+  tracheitis: 189
+  transient ischemic attack: 655
+  trichiasis: 30
+  trichinosis: 10
+  trichomonas infection: 339
+  trigeminal neuralgia: 201
+  trigger finger (finger disorder): 87
+  tuberculosis: 23
+  ulcerative colitis: 377
+  urethral disorder: 315
+  urethral stricture: 279
+  urethral valves: 35
+  urethritis: 453
+  urge incontinence: 495
+  urinary tract infection: 910
+  urinary tract obstruction: 683
+  uterine atony: 219
+  uterine fibroids: 450
+  uveitis: 19
+  vaginal cyst: 1215
+  vaginal yeast infection: 608
+  vaginismus: 77
+  vaginitis: 909
+  varicocele of the testicles: 682
+  varicose veins: 113
+  vasculitis: 299
+  venous insufficiency: 336
+  vertebrobasilar insufficiency: 23
+  vesicoureteral reflux: 10
+  viral exanthem: 601
+  viral hepatitis: 35
+  viral warts: 453
+  vitamin b12 deficiency: 80
+  vitamin d deficiency: 17
+  vitreous degeneration: 341
+  vitreous hemorrhage: 27
+  vocal cord polyp: 90
+  volvulus: 11
+  vulvar disorder: 160
+  vulvodynia: 1218
+  white blood cell disease: 504
+  whooping cough: 43
+  wilson disease: 14
+  yeast infection: 470
+  zenker diverticulum: 11
+
+── Diseases with >= 100 samples (443 total) ──
+  abdominal aortic aneurysm: 138
+  abdominal hernia: 407
+  abscess of nose: 290
+  abscess of the pharynx: 341
+  acne: 496
+  actinic keratosis: 909
+  acute bronchiolitis: 1204
+  acute bronchitis: 1213
+  acute bronchospasm: 906
+  acute glaucoma: 210
+  acute kidney injury: 908
+  acute otitis media: 683
+  acute pancreatitis: 1207
+  acute respiratory distress syndrome (ards): 451
+  acute sinusitis: 906
+  acute stress reaction: 910
+  adjustment reaction: 503
+  alcohol abuse: 510
+  alcohol intoxication: 351
+  alcohol withdrawal: 665
+  alcoholic liver disease: 246
+  allergy: 905
+  alopecia: 340
+  alzheimer disease: 336
+  anal fissure: 226
+  anemia: 331
+  angina: 906
+  ankylosing spondylitis: 606
+  anxiety: 1198
+  aortic valve disease: 451
+  aphthous ulcer: 244
+  appendicitis: 903
+  arrhythmia: 258
+  arthritis of the hip: 1210
+  asperger syndrome: 338
+  asthma: 904
+  astigmatism: 321
+  athlete's foot: 382
+  atrial flutter: 240
+  atrophic skin condition: 438
+  atrophic vaginitis: 329
+  attention deficit hyperactivity disorder (adhd): 507
+  autism: 452
+  balanitis: 454
+  bell palsy: 685
+  benign kidney cyst: 206
+  benign paroxysmal positional vertical (bppv): 443
+  benign prostatic hyperplasia (bph): 1206
+  benign vaginal discharge (leukorrhea): 682
+  bipolar disorder: 663
+  bladder cancer: 125
+  bladder disorder: 454
+  bladder obstruction: 338
+  blepharitis: 906
+  bone disorder: 255
+  brachial neuritis: 907
+  brain cancer: 227
+  breast infection (mastitis): 501
+  broken tooth: 165
+  bursitis: 1208
+  callus: 513
+  cardiac arrest: 346
+  cardiomyopathy: 311
+  carpal tunnel syndrome: 896
+  cataract: 607
+  celiac disease: 151
+  cellulitis or abscess of mouth: 138
+  cerebral edema: 104
+  cerebral palsy: 139
+  cervicitis: 384
+  chalazion: 678
+  chickenpox: 104
+  chlamydia: 165
+  cholecystitis: 1204
+  choledocholithiasis: 441
+  chronic back pain: 899
+  chronic constipation: 913
+  chronic glaucoma: 668
+  chronic knee pain: 150
+  chronic obstructive pulmonary disease (copd): 906
+  chronic otitis media: 669
+  chronic pain disorder: 677
+  chronic pancreatitis: 297
+  chronic rheumatic fever: 169
+  chronic sinusitis: 657
+  cirrhosis: 331
+  cold sore: 192
+  colonic polyp: 339
+  common cold: 905
+  complex regional pain syndrome: 1217
+  concussion: 1191
+  conduct disorder: 679
+  conductive hearing loss: 598
+  conjunctivitis: 909
+  conjunctivitis due to allergy: 1215
+  conjunctivitis due to bacteria: 154
+  conjunctivitis due to virus: 681
+  contact dermatitis: 909
+  cornea infection: 903
+  corneal abrasion: 500
+  corneal disorder: 676
+  coronary atherosclerosis: 112
+  cranial nerve palsy: 340
+  crohn disease: 376
+  croup: 904
+  cystitis: 1219
+  deep vein thrombosis (dvt): 240
+  degenerative disc disease: 909
+  delirium: 598
+  dementia: 339
+  dental caries: 1185
+  depression: 912
+  dermatitis due to sun exposure: 446
+  developmental disability: 911
+  deviated nasal septum: 607
+  diabetic ketoacidosis: 673
+  diabetic peripheral neuropathy: 452
+  diabetic retinopathy: 456
+  diaper rash: 897
+  diverticulitis: 1214
+  diverticulosis: 673
+  down syndrome: 127
+  drug abuse: 603
+  drug abuse (cocaine): 281
+  drug abuse (methamphetamine): 330
+  drug abuse (opioids): 604
+  drug poisoning due to medication: 208
+  drug reaction: 909
+  drug withdrawal: 255
+  dry eye of unknown cause: 861
+  dysthymic disorder: 499
+  ear drum damage: 907
+  ear wax impaction: 678
+  eating disorder: 494
+  ectopic pregnancy: 341
+  eczema: 1207
+  endometriosis: 378
+  envenomation from spider or animal bite: 455
+  epididymitis: 511
+  erectile dysfunction: 606
+  esophagitis: 1215
+  essential tremor: 195
+  eustachian tube dysfunction (ear disorder): 909
+  eye alignment disorder: 453
+  female genitalia infection: 197
+  fibromyalgia: 656
+  flu: 679
+  fluid overload: 327
+  food allergy: 454
+  foreign body in the eye: 281
+  foreign body in the gastrointestinal tract: 127
+  foreign body in the throat: 156
+  fracture of the arm: 437
+  fracture of the facial bones: 449
+  fracture of the hand: 111
+  fracture of the leg: 678
+  fracture of the pelvis: 184
+  fracture of the rib: 882
+  fracture of the shoulder: 162
+  fracture of the vertebra: 270
+  fungal infection of the hair: 1212
+  fungal infection of the skin: 683
+  gallstone: 904
+  ganglion cyst: 675
+  gastritis: 679
+  gastroduodenal ulcer: 683
+  gastroesophageal reflux disease (gerd): 448
+  gastrointestinal hemorrhage: 1214
+  gastroparesis: 179
+  genital herpes: 242
+  glaucoma: 498
+  gonorrhea: 131
+  gout: 1211
+  graves disease: 248
+  gum disease: 894
+  head and neck cancer: 326
+  head injury: 164
+  headache after lumbar puncture: 169
+  heart attack: 907
+  heart block: 606
+  heart failure: 903
+  heat exhaustion: 264
+  hemangioma: 676
+  hemiplegia: 504
+  hemorrhoids: 908
+  hepatitis due to a toxin: 357
+  herniated disk: 908
+  herpangina: 450
+  hiatal hernia: 906
+  hidradenitis suppurativa: 139
+  hydrocele of the testicle: 227
+  hydrocephalus: 155
+  hydronephrosis: 340
+  hyperemesis gravidarum: 912
+  hyperkalemia: 657
+  hyperopia: 108
+  hypertensive heart disease: 902
+  hypoglycemia: 1215
+  hypokalemia: 478
+  hyponatremia: 495
+  hypovolemia: 424
+  idiopathic absence of menstruation: 493
+  idiopathic excessive menstruation: 906
+  idiopathic irregular menstrual cycle: 908
+  idiopathic painful menstruation: 906
+  ileus: 449
+  impetigo: 683
+  impulse control disorder: 335
+  indigestion: 447
+  induced abortion: 287
+  infectious gastroenteritis: 1212
+  ingrown toe nail: 604
+  inguinal hernia: 402
+  injury of the ankle: 182
+  injury to internal organ: 131
+  injury to the arm: 1209
+  injury to the face: 455
+  injury to the hand: 126
+  injury to the leg: 1206
+  injury to the shoulder: 510
+  injury to the trunk: 905
+  insect bite: 669
+  interstitial lung disease: 511
+  intertrigo (skin condition): 105
+  intestinal disease: 383
+  intestinal malabsorption: 161
+  intestinal obstruction: 445
+  intracerebral hemorrhage: 603
+  intracranial hemorrhage: 322
+  iridocyclitis: 496
+  iron deficiency anemia: 683
+  irritable bowel syndrome: 510
+  ischemia of the bowel: 283
+  ischemic heart disease: 886
+  itching of unknown cause: 504
+  jaw disorder: 336
+  joint effusion: 449
+  kidney failure: 282
+  kidney stone: 904
+  knee ligament or meniscus tear: 106
+  labyrinthitis: 654
+  lactose intolerance: 137
+  laryngitis: 678
+  lateral epicondylitis (tennis elbow): 337
+  lipoma: 684
+  liver disease: 1209
+  lumbago: 156
+  lyme disease: 211
+  lymphadenitis: 453
+  lymphedema: 505
+  lymphoma: 133
+  macular degeneration: 909
+  male genitalia infection: 138
+  malignant hypertension: 181
+  marijuana abuse: 1210
+  mastoiditis: 144
+  melanoma: 271
+  meniere disease: 281
+  meningitis: 297
+  migraine: 221
+  missed abortion: 375
+  mitral valve disease: 504
+  molluscum contagiosum: 511
+  mononeuritis: 676
+  mononucleosis: 331
+  mucositis: 289
+  multiple sclerosis: 910
+  muscle spasm: 678
+  myasthenia gravis: 134
+  myopia: 448
+  myositis: 137
+  narcolepsy: 186
+  nasal polyp: 356
+  nerve impingement near the shoulder: 280
+  neuralgia: 684
+  neurosis: 902
+  noninfectious gastroenteritis: 1206
+  nose disorder: 1218
+  obsessive compulsive disorder (ocd): 454
+  obstructive sleep apnea (osa): 1196
+  onychomycosis: 505
+  oppositional disorder: 431
+  oral mucosal lesion: 606
+  oral thrush (yeast infection): 681
+  orbital cellulitis: 170
+  orthostatic hypotension: 283
+  osteoarthritis: 896
+  osteochondroma: 211
+  osteochondrosis: 109
+  osteomyelitis: 188
+  osteoporosis: 378
+  otitis externa (swimmer's ear): 904
+  otitis media: 910
+  ovarian cyst: 499
+  overflow incontinence: 212
+  pain after an operation: 908
+  pain disorder affecting the neck: 387
+  pancreatic cancer: 204
+  panic attack: 188
+  panic disorder: 909
+  parkinson disease: 513
+  paronychia: 438
+  paroxysmal supraventricular tachycardia: 375
+  paroxysmal ventricular tachycardia: 671
+  pelvic inflammatory disease: 900
+  pelvic organ prolapse: 438
+  pericarditis: 147
+  peripheral arterial disease: 113
+  peripheral arterial embolism: 135
+  peripheral nerve disorder: 1215
+  perirectal infection: 137
+  peritonitis: 381
+  peritonsillar abscess: 246
+  persistent vomiting of unknown cause: 186
+  personality disorder: 911
+  pilonidal cyst: 339
+  plantar fasciitis: 199
+  pleural effusion: 607
+  pneumonia: 1212
+  pneumothorax: 296
+  poisoning due to gas: 194
+  poisoning due to sedatives: 126
+  polycystic kidney disease: 183
+  polycystic ovarian syndrome (pcos): 268
+  polymyalgia rheumatica: 136
+  post-traumatic stress disorder (ptsd): 607
+  postoperative infection: 111
+  postpartum depression: 494
+  preeclampsia: 217
+  premature atrial contractions (pacs): 220
+  premature ventricular contractions (pvcs): 325
+  premenstrual tension syndrome: 137
+  presbyopia: 212
+  primary insomnia: 190
+  problem during pregnancy: 913
+  prostate cancer: 135
+  prostatitis: 681
+  psoriasis: 912
+  psychosexual disorder: 168
+  psychotic disorder: 902
+  pterygium: 215
+  pulmonary congestion: 497
+  pulmonary embolism: 880
+  pulmonary eosinophilia: 185
+  pulmonary fibrosis: 118
+  pulmonary hypertension: 446
+  pyelonephritis: 903
+  pyogenic skin infection: 911
+  rectal disorder: 902
+  restless leg syndrome: 283
+  retinal detachment: 280
+  retinopathy due to high blood pressure: 138
+  rheumatoid arthritis: 678
+  rosacea: 678
+  rotator cuff injury: 111
+  sarcoidosis: 330
+  scabies: 187
+  scar: 256
+  schizophrenia: 890
+  sciatica: 668
+  scleroderma: 338
+  scoliosis: 171
+  seasonal allergies (hay fever): 910
+  sebaceous cyst: 913
+  seborrheic dermatitis: 880
+  seborrheic keratosis: 870
+  sensorineural hearing loss: 681
+  sepsis: 909
+  shingles (herpes zoster): 379
+  sialoadenitis: 509
+  sick sinus syndrome: 158
+  sickle cell anemia: 226
+  sickle cell crisis: 913
+  sinus bradycardia: 909
+  skin cancer: 661
+  skin disorder: 676
+  skin pigmentation disorder: 909
+  skin polyp: 897
+  smoking or tobacco addiction: 883
+  social phobia: 511
+  soft tissue sarcoma: 171
+  spinal stenosis: 1207
+  spondylitis: 451
+  spondylolisthesis: 673
+  spondylosis: 1216
+  spontaneous abortion: 1212
+  sprain or strain: 1212
+  stenosis of the tear duct: 102
+  stomach cancer: 155
+  strep throat: 1210
+  stress incontinence: 255
+  stroke: 642
+  stye: 908
+  subarachnoid hemorrhage: 140
+  subconjunctival hemorrhage: 249
+  subdural hemorrhage: 139
+  substance-related mental disorder: 213
+  systemic lupus erythematosis (sle): 159
+  teething syndrome: 438
+  temporary or benign blood in urine: 897
+  temporomandibular joint disorder: 341
+  tendinitis: 678
+  tension headache: 279
+  thoracic aortic aneurysm: 168
+  thoracic outlet syndrome: 180
+  threatened pregnancy: 905
+  thrombocytopenia: 126
+  thrombophlebitis: 451
+  thyroid nodule: 216
+  tietze syndrome: 333
+  tinnitus of unknown cause: 279
+  tonsillar hypertrophy: 339
+  tonsillitis: 446
+  tooth abscess: 669
+  tooth disorder: 671
+  torticollis: 280
+  tracheitis: 189
+  transient ischemic attack: 655
+  trichomonas infection: 339
+  trigeminal neuralgia: 201
+  ulcerative colitis: 377
+  urethral disorder: 315
+  urethral stricture: 279
+  urethritis: 453
+  urge incontinence: 495
+  urinary tract infection: 910
+  urinary tract obstruction: 683
+  uterine atony: 219
+  uterine fibroids: 450
+  vaginal cyst: 1215
+  vaginal yeast infection: 608
+  vaginitis: 909
+  varicocele of the testicles: 682
+  varicose veins: 113
+  vasculitis: 299
+  venous insufficiency: 336
+  viral exanthem: 601
+  viral warts: 453
+  vitreous degeneration: 341
+  vulvar disorder: 160
+  vulvodynia: 1218
+  white blood cell disease: 504
+  yeast infection: 470
+
+── Diseases with >= 200 samples (361 total) ──
+  abdominal hernia: 407
+  abscess of nose: 290
+  abscess of the pharynx: 341
+  acne: 496
+  actinic keratosis: 909
+  acute bronchiolitis: 1204
+  acute bronchitis: 1213
+  acute bronchospasm: 906
+  acute glaucoma: 210
+  acute kidney injury: 908
+  acute otitis media: 683
+  acute pancreatitis: 1207
+  acute respiratory distress syndrome (ards): 451
+  acute sinusitis: 906
+  acute stress reaction: 910
+  adjustment reaction: 503
+  alcohol abuse: 510
+  alcohol intoxication: 351
+  alcohol withdrawal: 665
+  alcoholic liver disease: 246
+  allergy: 905
+  alopecia: 340
+  alzheimer disease: 336
+  anal fissure: 226
+  anemia: 331
+  angina: 906
+  ankylosing spondylitis: 606
+  anxiety: 1198
+  aortic valve disease: 451
+  aphthous ulcer: 244
+  appendicitis: 903
+  arrhythmia: 258
+  arthritis of the hip: 1210
+  asperger syndrome: 338
+  asthma: 904
+  astigmatism: 321
+  athlete's foot: 382
+  atrial flutter: 240
+  atrophic skin condition: 438
+  atrophic vaginitis: 329
+  attention deficit hyperactivity disorder (adhd): 507
+  autism: 452
+  balanitis: 454
+  bell palsy: 685
+  benign kidney cyst: 206
+  benign paroxysmal positional vertical (bppv): 443
+  benign prostatic hyperplasia (bph): 1206
+  benign vaginal discharge (leukorrhea): 682
+  bipolar disorder: 663
+  bladder disorder: 454
+  bladder obstruction: 338
+  blepharitis: 906
+  bone disorder: 255
+  brachial neuritis: 907
+  brain cancer: 227
+  breast infection (mastitis): 501
+  bursitis: 1208
+  callus: 513
+  cardiac arrest: 346
+  cardiomyopathy: 311
+  carpal tunnel syndrome: 896
+  cataract: 607
+  cervicitis: 384
+  chalazion: 678
+  cholecystitis: 1204
+  choledocholithiasis: 441
+  chronic back pain: 899
+  chronic constipation: 913
+  chronic glaucoma: 668
+  chronic obstructive pulmonary disease (copd): 906
+  chronic otitis media: 669
+  chronic pain disorder: 677
+  chronic pancreatitis: 297
+  chronic sinusitis: 657
+  cirrhosis: 331
+  colonic polyp: 339
+  common cold: 905
+  complex regional pain syndrome: 1217
+  concussion: 1191
+  conduct disorder: 679
+  conductive hearing loss: 598
+  conjunctivitis: 909
+  conjunctivitis due to allergy: 1215
+  conjunctivitis due to virus: 681
+  contact dermatitis: 909
+  cornea infection: 903
+  corneal abrasion: 500
+  corneal disorder: 676
+  cranial nerve palsy: 340
+  crohn disease: 376
+  croup: 904
+  cystitis: 1219
+  deep vein thrombosis (dvt): 240
+  degenerative disc disease: 909
+  delirium: 598
+  dementia: 339
+  dental caries: 1185
+  depression: 912
+  dermatitis due to sun exposure: 446
+  developmental disability: 911
+  deviated nasal septum: 607
+  diabetic ketoacidosis: 673
+  diabetic peripheral neuropathy: 452
+  diabetic retinopathy: 456
+  diaper rash: 897
+  diverticulitis: 1214
+  diverticulosis: 673
+  drug abuse: 603
+  drug abuse (cocaine): 281
+  drug abuse (methamphetamine): 330
+  drug abuse (opioids): 604
+  drug poisoning due to medication: 208
+  drug reaction: 909
+  drug withdrawal: 255
+  dry eye of unknown cause: 861
+  dysthymic disorder: 499
+  ear drum damage: 907
+  ear wax impaction: 678
+  eating disorder: 494
+  ectopic pregnancy: 341
+  eczema: 1207
+  endometriosis: 378
+  envenomation from spider or animal bite: 455
+  epididymitis: 511
+  erectile dysfunction: 606
+  esophagitis: 1215
+  eustachian tube dysfunction (ear disorder): 909
+  eye alignment disorder: 453
+  fibromyalgia: 656
+  flu: 679
+  fluid overload: 327
+  food allergy: 454
+  foreign body in the eye: 281
+  fracture of the arm: 437
+  fracture of the facial bones: 449
+  fracture of the leg: 678
+  fracture of the rib: 882
+  fracture of the vertebra: 270
+  fungal infection of the hair: 1212
+  fungal infection of the skin: 683
+  gallstone: 904
+  ganglion cyst: 675
+  gastritis: 679
+  gastroduodenal ulcer: 683
+  gastroesophageal reflux disease (gerd): 448
+  gastrointestinal hemorrhage: 1214
+  genital herpes: 242
+  glaucoma: 498
+  gout: 1211
+  graves disease: 248
+  gum disease: 894
+  head and neck cancer: 326
+  heart attack: 907
+  heart block: 606
+  heart failure: 903
+  heat exhaustion: 264
+  hemangioma: 676
+  hemiplegia: 504
+  hemorrhoids: 908
+  hepatitis due to a toxin: 357
+  herniated disk: 908
+  herpangina: 450
+  hiatal hernia: 906
+  hydrocele of the testicle: 227
+  hydronephrosis: 340
+  hyperemesis gravidarum: 912
+  hyperkalemia: 657
+  hypertensive heart disease: 902
+  hypoglycemia: 1215
+  hypokalemia: 478
+  hyponatremia: 495
+  hypovolemia: 424
+  idiopathic absence of menstruation: 493
+  idiopathic excessive menstruation: 906
+  idiopathic irregular menstrual cycle: 908
+  idiopathic painful menstruation: 906
+  ileus: 449
+  impetigo: 683
+  impulse control disorder: 335
+  indigestion: 447
+  induced abortion: 287
+  infectious gastroenteritis: 1212
+  ingrown toe nail: 604
+  inguinal hernia: 402
+  injury to the arm: 1209
+  injury to the face: 455
+  injury to the leg: 1206
+  injury to the shoulder: 510
+  injury to the trunk: 905
+  insect bite: 669
+  interstitial lung disease: 511
+  intestinal disease: 383
+  intestinal obstruction: 445
+  intracerebral hemorrhage: 603
+  intracranial hemorrhage: 322
+  iridocyclitis: 496
+  iron deficiency anemia: 683
+  irritable bowel syndrome: 510
+  ischemia of the bowel: 283
+  ischemic heart disease: 886
+  itching of unknown cause: 504
+  jaw disorder: 336
+  joint effusion: 449
+  kidney failure: 282
+  kidney stone: 904
+  labyrinthitis: 654
+  laryngitis: 678
+  lateral epicondylitis (tennis elbow): 337
+  lipoma: 684
+  liver disease: 1209
+  lyme disease: 211
+  lymphadenitis: 453
+  lymphedema: 505
+  macular degeneration: 909
+  marijuana abuse: 1210
+  melanoma: 271
+  meniere disease: 281
+  meningitis: 297
+  migraine: 221
+  missed abortion: 375
+  mitral valve disease: 504
+  molluscum contagiosum: 511
+  mononeuritis: 676
+  mononucleosis: 331
+  mucositis: 289
+  multiple sclerosis: 910
+  muscle spasm: 678
+  myopia: 448
+  nasal polyp: 356
+  nerve impingement near the shoulder: 280
+  neuralgia: 684
+  neurosis: 902
+  noninfectious gastroenteritis: 1206
+  nose disorder: 1218
+  obsessive compulsive disorder (ocd): 454
+  obstructive sleep apnea (osa): 1196
+  onychomycosis: 505
+  oppositional disorder: 431
+  oral mucosal lesion: 606
+  oral thrush (yeast infection): 681
+  orthostatic hypotension: 283
+  osteoarthritis: 896
+  osteochondroma: 211
+  osteoporosis: 378
+  otitis externa (swimmer's ear): 904
+  otitis media: 910
+  ovarian cyst: 499
+  overflow incontinence: 212
+  pain after an operation: 908
+  pain disorder affecting the neck: 387
+  pancreatic cancer: 204
+  panic disorder: 909
+  parkinson disease: 513
+  paronychia: 438
+  paroxysmal supraventricular tachycardia: 375
+  paroxysmal ventricular tachycardia: 671
+  pelvic inflammatory disease: 900
+  pelvic organ prolapse: 438
+  peripheral nerve disorder: 1215
+  peritonitis: 381
+  peritonsillar abscess: 246
+  personality disorder: 911
+  pilonidal cyst: 339
+  pleural effusion: 607
+  pneumonia: 1212
+  pneumothorax: 296
+  polycystic ovarian syndrome (pcos): 268
+  post-traumatic stress disorder (ptsd): 607
+  postpartum depression: 494
+  preeclampsia: 217
+  premature atrial contractions (pacs): 220
+  premature ventricular contractions (pvcs): 325
+  presbyopia: 212
+  problem during pregnancy: 913
+  prostatitis: 681
+  psoriasis: 912
+  psychotic disorder: 902
+  pterygium: 215
+  pulmonary congestion: 497
+  pulmonary embolism: 880
+  pulmonary hypertension: 446
+  pyelonephritis: 903
+  pyogenic skin infection: 911
+  rectal disorder: 902
+  restless leg syndrome: 283
+  retinal detachment: 280
+  rheumatoid arthritis: 678
+  rosacea: 678
+  sarcoidosis: 330
+  scar: 256
+  schizophrenia: 890
+  sciatica: 668
+  scleroderma: 338
+  seasonal allergies (hay fever): 910
+  sebaceous cyst: 913
+  seborrheic dermatitis: 880
+  seborrheic keratosis: 870
+  sensorineural hearing loss: 681
+  sepsis: 909
+  shingles (herpes zoster): 379
+  sialoadenitis: 509
+  sickle cell anemia: 226
+  sickle cell crisis: 913
+  sinus bradycardia: 909
+  skin cancer: 661
+  skin disorder: 676
+  skin pigmentation disorder: 909
+  skin polyp: 897
+  smoking or tobacco addiction: 883
+  social phobia: 511
+  spinal stenosis: 1207
+  spondylitis: 451
+  spondylolisthesis: 673
+  spondylosis: 1216
+  spontaneous abortion: 1212
+  sprain or strain: 1212
+  strep throat: 1210
+  stress incontinence: 255
+  stroke: 642
+  stye: 908
+  subconjunctival hemorrhage: 249
+  substance-related mental disorder: 213
+  teething syndrome: 438
+  temporary or benign blood in urine: 897
+  temporomandibular joint disorder: 341
+  tendinitis: 678
+  tension headache: 279
+  threatened pregnancy: 905
+  thrombophlebitis: 451
+  thyroid nodule: 216
+  tietze syndrome: 333
+  tinnitus of unknown cause: 279
+  tonsillar hypertrophy: 339
+  tonsillitis: 446
+  tooth abscess: 669
+  tooth disorder: 671
+  torticollis: 280
+  transient ischemic attack: 655
+  trichomonas infection: 339
+  trigeminal neuralgia: 201
+  ulcerative colitis: 377
+  urethral disorder: 315
+  urethral stricture: 279
+  urethritis: 453
+  urge incontinence: 495
+  urinary tract infection: 910
+  urinary tract obstruction: 683
+  uterine atony: 219
+  uterine fibroids: 450
+  vaginal cyst: 1215
+  vaginal yeast infection: 608
+  vaginitis: 909
+  varicocele of the testicles: 682
+  vasculitis: 299
+  venous insufficiency: 336
+  viral exanthem: 601
+  viral warts: 453
+  vitreous degeneration: 341
+  vulvodynia: 1218
+  white blood cell disease: 504
+  yeast infection: 470
+
+── Diseases with >= 300 samples (304 total) ──
+  abdominal hernia: 407
+  abscess of the pharynx: 341
+  acne: 496
+  actinic keratosis: 909
+  acute bronchiolitis: 1204
+  acute bronchitis: 1213
+  acute bronchospasm: 906
+  acute kidney injury: 908
+  acute otitis media: 683
+  acute pancreatitis: 1207
+  acute respiratory distress syndrome (ards): 451
+  acute sinusitis: 906
+  acute stress reaction: 910
+  adjustment reaction: 503
+  alcohol abuse: 510
+  alcohol intoxication: 351
+  alcohol withdrawal: 665
+  allergy: 905
+  alopecia: 340
+  alzheimer disease: 336
+  anemia: 331
+  angina: 906
+  ankylosing spondylitis: 606
+  anxiety: 1198
+  aortic valve disease: 451
+  appendicitis: 903
+  arthritis of the hip: 1210
+  asperger syndrome: 338
+  asthma: 904
+  astigmatism: 321
+  athlete's foot: 382
+  atrophic skin condition: 438
+  atrophic vaginitis: 329
+  attention deficit hyperactivity disorder (adhd): 507
+  autism: 452
+  balanitis: 454
+  bell palsy: 685
+  benign paroxysmal positional vertical (bppv): 443
+  benign prostatic hyperplasia (bph): 1206
+  benign vaginal discharge (leukorrhea): 682
+  bipolar disorder: 663
+  bladder disorder: 454
+  bladder obstruction: 338
+  blepharitis: 906
+  brachial neuritis: 907
+  breast infection (mastitis): 501
+  bursitis: 1208
+  callus: 513
+  cardiac arrest: 346
+  cardiomyopathy: 311
+  carpal tunnel syndrome: 896
+  cataract: 607
+  cervicitis: 384
+  chalazion: 678
+  cholecystitis: 1204
+  choledocholithiasis: 441
+  chronic back pain: 899
+  chronic constipation: 913
+  chronic glaucoma: 668
+  chronic obstructive pulmonary disease (copd): 906
+  chronic otitis media: 669
+  chronic pain disorder: 677
+  chronic sinusitis: 657
+  cirrhosis: 331
+  colonic polyp: 339
+  common cold: 905
+  complex regional pain syndrome: 1217
+  concussion: 1191
+  conduct disorder: 679
+  conductive hearing loss: 598
+  conjunctivitis: 909
+  conjunctivitis due to allergy: 1215
+  conjunctivitis due to virus: 681
+  contact dermatitis: 909
+  cornea infection: 903
+  corneal abrasion: 500
+  corneal disorder: 676
+  cranial nerve palsy: 340
+  crohn disease: 376
+  croup: 904
+  cystitis: 1219
+  degenerative disc disease: 909
+  delirium: 598
+  dementia: 339
+  dental caries: 1185
+  depression: 912
+  dermatitis due to sun exposure: 446
+  developmental disability: 911
+  deviated nasal septum: 607
+  diabetic ketoacidosis: 673
+  diabetic peripheral neuropathy: 452
+  diabetic retinopathy: 456
+  diaper rash: 897
+  diverticulitis: 1214
+  diverticulosis: 673
+  drug abuse: 603
+  drug abuse (methamphetamine): 330
+  drug abuse (opioids): 604
+  drug reaction: 909
+  dry eye of unknown cause: 861
+  dysthymic disorder: 499
+  ear drum damage: 907
+  ear wax impaction: 678
+  eating disorder: 494
+  ectopic pregnancy: 341
+  eczema: 1207
+  endometriosis: 378
+  envenomation from spider or animal bite: 455
+  epididymitis: 511
+  erectile dysfunction: 606
+  esophagitis: 1215
+  eustachian tube dysfunction (ear disorder): 909
+  eye alignment disorder: 453
+  fibromyalgia: 656
+  flu: 679
+  fluid overload: 327
+  food allergy: 454
+  fracture of the arm: 437
+  fracture of the facial bones: 449
+  fracture of the leg: 678
+  fracture of the rib: 882
+  fungal infection of the hair: 1212
+  fungal infection of the skin: 683
+  gallstone: 904
+  ganglion cyst: 675
+  gastritis: 679
+  gastroduodenal ulcer: 683
+  gastroesophageal reflux disease (gerd): 448
+  gastrointestinal hemorrhage: 1214
+  glaucoma: 498
+  gout: 1211
+  gum disease: 894
+  head and neck cancer: 326
+  heart attack: 907
+  heart block: 606
+  heart failure: 903
+  hemangioma: 676
+  hemiplegia: 504
+  hemorrhoids: 908
+  hepatitis due to a toxin: 357
+  herniated disk: 908
+  herpangina: 450
+  hiatal hernia: 906
+  hydronephrosis: 340
+  hyperemesis gravidarum: 912
+  hyperkalemia: 657
+  hypertensive heart disease: 902
+  hypoglycemia: 1215
+  hypokalemia: 478
+  hyponatremia: 495
+  hypovolemia: 424
+  idiopathic absence of menstruation: 493
+  idiopathic excessive menstruation: 906
+  idiopathic irregular menstrual cycle: 908
+  idiopathic painful menstruation: 906
+  ileus: 449
+  impetigo: 683
+  impulse control disorder: 335
+  indigestion: 447
+  infectious gastroenteritis: 1212
+  ingrown toe nail: 604
+  inguinal hernia: 402
+  injury to the arm: 1209
+  injury to the face: 455
+  injury to the leg: 1206
+  injury to the shoulder: 510
+  injury to the trunk: 905
+  insect bite: 669
+  interstitial lung disease: 511
+  intestinal disease: 383
+  intestinal obstruction: 445
+  intracerebral hemorrhage: 603
+  intracranial hemorrhage: 322
+  iridocyclitis: 496
+  iron deficiency anemia: 683
+  irritable bowel syndrome: 510
+  ischemic heart disease: 886
+  itching of unknown cause: 504
+  jaw disorder: 336
+  joint effusion: 449
+  kidney stone: 904
+  labyrinthitis: 654
+  laryngitis: 678
+  lateral epicondylitis (tennis elbow): 337
+  lipoma: 684
+  liver disease: 1209
+  lymphadenitis: 453
+  lymphedema: 505
+  macular degeneration: 909
+  marijuana abuse: 1210
+  missed abortion: 375
+  mitral valve disease: 504
+  molluscum contagiosum: 511
+  mononeuritis: 676
+  mononucleosis: 331
+  multiple sclerosis: 910
+  muscle spasm: 678
+  myopia: 448
+  nasal polyp: 356
+  neuralgia: 684
+  neurosis: 902
+  noninfectious gastroenteritis: 1206
+  nose disorder: 1218
+  obsessive compulsive disorder (ocd): 454
+  obstructive sleep apnea (osa): 1196
+  onychomycosis: 505
+  oppositional disorder: 431
+  oral mucosal lesion: 606
+  oral thrush (yeast infection): 681
+  osteoarthritis: 896
+  osteoporosis: 378
+  otitis externa (swimmer's ear): 904
+  otitis media: 910
+  ovarian cyst: 499
+  pain after an operation: 908
+  pain disorder affecting the neck: 387
+  panic disorder: 909
+  parkinson disease: 513
+  paronychia: 438
+  paroxysmal supraventricular tachycardia: 375
+  paroxysmal ventricular tachycardia: 671
+  pelvic inflammatory disease: 900
+  pelvic organ prolapse: 438
+  peripheral nerve disorder: 1215
+  peritonitis: 381
+  personality disorder: 911
+  pilonidal cyst: 339
+  pleural effusion: 607
+  pneumonia: 1212
+  post-traumatic stress disorder (ptsd): 607
+  postpartum depression: 494
+  premature ventricular contractions (pvcs): 325
+  problem during pregnancy: 913
+  prostatitis: 681
+  psoriasis: 912
+  psychotic disorder: 902
+  pulmonary congestion: 497
+  pulmonary embolism: 880
+  pulmonary hypertension: 446
+  pyelonephritis: 903
+  pyogenic skin infection: 911
+  rectal disorder: 902
+  rheumatoid arthritis: 678
+  rosacea: 678
+  sarcoidosis: 330
+  schizophrenia: 890
+  sciatica: 668
+  scleroderma: 338
+  seasonal allergies (hay fever): 910
+  sebaceous cyst: 913
+  seborrheic dermatitis: 880
+  seborrheic keratosis: 870
+  sensorineural hearing loss: 681
+  sepsis: 909
+  shingles (herpes zoster): 379
+  sialoadenitis: 509
+  sickle cell crisis: 913
+  sinus bradycardia: 909
+  skin cancer: 661
+  skin disorder: 676
+  skin pigmentation disorder: 909
+  skin polyp: 897
+  smoking or tobacco addiction: 883
+  social phobia: 511
+  spinal stenosis: 1207
+  spondylitis: 451
+  spondylolisthesis: 673
+  spondylosis: 1216
+  spontaneous abortion: 1212
+  sprain or strain: 1212
+  strep throat: 1210
+  stroke: 642
+  stye: 908
+  teething syndrome: 438
+  temporary or benign blood in urine: 897
+  temporomandibular joint disorder: 341
+  tendinitis: 678
+  threatened pregnancy: 905
+  thrombophlebitis: 451
+  tietze syndrome: 333
+  tonsillar hypertrophy: 339
+  tonsillitis: 446
+  tooth abscess: 669
+  tooth disorder: 671
+  transient ischemic attack: 655
+  trichomonas infection: 339
+  ulcerative colitis: 377
+  urethral disorder: 315
+  urethritis: 453
+  urge incontinence: 495
+  urinary tract infection: 910
+  urinary tract obstruction: 683
+  uterine fibroids: 450
+  vaginal cyst: 1215
+  vaginal yeast infection: 608
+  vaginitis: 909
+  varicocele of the testicles: 682
+  venous insufficiency: 336
+  viral exanthem: 601
+  viral warts: 453
+  vitreous degeneration: 341
+  vulvodynia: 1218
+  white blood cell disease: 504
+  yeast infection: 470

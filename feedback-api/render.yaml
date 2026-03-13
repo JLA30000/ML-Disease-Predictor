@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: ml-disease-predictor-feedback-api
+    env: python
+    rootDir: feedback-api
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: FEEDBACK_ALLOWED_ORIGINS
+        value: "*"
+      - key: FEEDBACK_ADMIN_API_KEY
+        generateValue: true
+      - key: FEEDBACK_DB_PATH
+        value: /var/data/feedback.db
+    disk:
+      name: feedback-data
+      mountPath: /var/data
+      sizeGB: 1

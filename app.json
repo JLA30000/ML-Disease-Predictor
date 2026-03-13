@@ -1,12 +1,17 @@
 {
   "expo": {
-    "name": "med-ai-app",
+    "name": "ML Disease Predictor",
     "slug": "med-ai-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "medaiapp",
-    "userInterfaceStyle": "automatic",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F8FC",
+      "resizeMode": "contain",
+      "image": "./assets/images/splash-icon.png"
+    },
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
@@ -26,19 +31,7 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router",
-      [
-        "expo-splash-screen",
-        {
-          "image": "./assets/images/splash-icon.png",
-          "imageWidth": 200,
-          "resizeMode": "contain",
-          "backgroundColor": "#ffffff",
-          "dark": {
-            "backgroundColor": "#000000"
-          }
-        }
-      ]
+      "expo-router"
     ],
     "experiments": {
       "typedRoutes": true,

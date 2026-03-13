@@ -16,6 +16,23 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
+## Supabase auth setup
+
+This app now uses Supabase Auth for email/password sign up, sign in, and email verification.
+
+1. Create a Supabase project.
+2. In Supabase Auth settings, keep email confirmations enabled.
+3. Add `medaiapp://auth/callback` to the allowed redirect URLs.
+4. Copy `.env.example` to `.env`.
+5. Set these values in `.env`:
+
+   ```bash
+   EXPO_PUBLIC_SUPABASE_URL=your-project-url
+   EXPO_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
+   ```
+
+6. Restart Expo after changing env vars.
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
